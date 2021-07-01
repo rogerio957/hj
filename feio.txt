@@ -1,0 +1,682 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTvyp3sV-5tz-n-f3EBbbsDP5hHmvC3FOaBZ3k7yg4hCwQfMHzI1g3rDpj" group-title="CANAL iptv Ricardo borges", iptv Ricardo borges
+https://www.youtube.com/channel/UCE_FIO8TbTAX6O9YI-VinGw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS",   VEM & VÊ 1 HD
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS",   VEM & VÊ 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wxqkMUE.png" group-title="CANAIS",   VEM & VÊ 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmazonSat" tvg-name="TV AMAZON SAT" tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="CANAIS",AMAZON SAT
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="CANAIS", MAIS GLOBOSAT
+http://tv.factoryiptv.com/live/Celso02/Celso02/36916.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="CANAIS",  MTV
+http://tv.factoryiptv.com/live/Celso02/Celso02/37071.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="CANAIS",BIS
+http://tv.factoryiptv.com/live/Celso02/Celso02/37131.m3u8
+
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="CANAIS",Food Network
+http://tv.factoryiptv.com/live/Celso02/Celso02/37102.m3u8
+
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="CANAIS",GNT
+http://tv.factoryiptv.com/live/Celso02/Celso02/37088.m3u8
+
+#EXTINF:-1 tvg-id="TopTV" tvg-name="Top TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH-bWU4vEFGgfj20IZgEeW8MHj96Rqsoq0nBVTFTFR6dbAykoH" group-title="CANAIS",TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS",  MULTISHOW
+http://tv.factoryiptv.com/live//Celso02/Celso02/37070.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="CANAIS",  VIVA
+http://tv.factoryiptv.com/live//Celso02/Celso02/36997.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS",   TV WEB NOVA PARAÍBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=945618119
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/an6620vql/boavontadetv.png" group-title="CANAIS",   BOA VONTADE TV HD
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/47f10bdf3d1ccd434e2d3fb5a5916615.jpg" group-title="CANAIS",          CANAL RURAL
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/qS8f4y" group-title="CANAIS",          AGRO  CANAL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lw2q8s33h/TV_Di_rio.png" group-title="CANAIS",             TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/3yos6jby1/terraviva_MEGAMAXIPTV.jpg" group-title="CANAIS",        TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/GhPFetE.png" group-title="CANAIS",                CANAL DO BOI
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3b/Logo_da_Rede_Super.png/150px-Logo_da_Rede_Super.png" group-title="CANAIS",    REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/listaiptvbrasil.com/logo/tvebahia.png" group-title="CANAIS",    TVE BAHIA
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="CANAIS",     TV GRAVA
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" group-title="CANAIS",   AD ALMADA
+http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="CANAIS",   SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg- logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFNtq_hIOk4n6gSj9roj9SmvBmj3WSO8pkeTlnyzmnZ793is36" group-title="CANAIS",             TV CÂMARA HD
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="CANAIS",                    TV CLIMA HD
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS",                    TV RENACER GOSPEL
+http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.aroodawakening.tv/wp-content/uploads/Gospel-TV-logo-best.jpeg" group-title="CANAIS",                    PORTAL GOSPEL TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/5SvcimL.png" group-title="CANAIS",             CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-45xnuFaz7Sg/AAAAAAAAAAI/AAAAAAAAAAA/ytlSE3dvFkU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS",      TV COM (Maceio)
+http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/02/multitv.jpg" group-title="CANAIS",             BUZIO TV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/p3ou2uvu5/tvuniversal.png" group-title="CANAIS",       TV Universal HD
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?Jspedroso
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1duuy2" group-title="CANAIS",             CANAL PROMESSAS
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS",             CANAL  SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7MunEZH9i3S-E9VAWSzpZmRncNBvu0cIwUuQoWpFRB50J_Ch6" group-title="CANAIS",   NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cbqlIU5.png" group-title="CANAIS",   POLISHOP
+http://tv.factoryiptv.com/live//Marcia02/Marcia02/41291.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="CANAIS",  GLOBO NEWS
+http://tv.factoryiptv.com//live/Celso02/Celso02/37093.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="CANAIS",      BAND NEWS
+http://tv.factoryiptv.com/live//Celso02/Celso02/37126.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS",   RECORD NEWS
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS",   RECORD NEWS [ALTER]
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Español.svg/1200px-CNN_en_Español.svg.png" group-title="CANAIS", CNN HD (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS",   IFC TV GERAL
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS",  COMBATE ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="CANAIS",  COMBATE
+http://tv.factoryiptv.com/live//Celso02/Celso02/37119.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",  PREMIERES CLUBES
+http://tv.factoryiptv.com/live//Celso02/Celso02/37016.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",  PREMIERES CLUBES HD
+http://tv.factoryiptv.com/live/Celso02/Celso02/36948.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 2
+http://tv.factoryiptv.com/live//Celso02/Celso02/37060.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 3
+http://tv.factoryiptv.com/live//Celso02/Celso02/37059.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 4
+http://tv.factoryiptv.com/live//Celso02/Celso02/37058.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 5
+http://tv.factoryiptv.com/live//Celso02/Celso02/37057.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 6
+http://tv.factoryiptv.com/live//Celso02/Celso02/37056.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 7
+http://tv.factoryiptv.com/live//Celso02/Celso02/37017.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 8
+http://tv.factoryiptv.com/live//Celso02/Celso02/41304.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="CANAIS",PREMIERE 9
+http://tv.factoryiptv.com/live/Celso02/Celso02/41305.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="CANAIS", SPORTV
+http://tv.factoryiptv.com/live//Celso02/Celso02/37256.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="CANAIS", SPORTV 2
+http://tv.factoryiptv.com/live/Celso02/Celso02/37044.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="CANAIS",SPORTV 3 
+http://tv.factoryiptv.com/live//Celso02/Celso02/37006.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="CANAIS",  FOX SPORTS
+http://tv.factoryiptv.com/live//Celso02/Celso02/37099.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="CANAIS",  FOX SPORTS 2
+http://tv.factoryiptv.com/live//Celso02/Celso02/37098.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS", ESPN
+http://tv.factoryiptv.com/live/Celso02/Celso02/37105.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS",  ESPN BR
+http://tv.factoryiptv.com/live/Celso02/Celso02/37104.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UQyuiko.png" group-title="CANAIS",ESPN PLUS
+http://tv.factoryiptv.com/live//Celso02/Celso02/36976.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS",   ESPORTE INTERATIVO
+http://tv.factoryiptv.com/live//Celso02/Celso02/36975.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS", ESPORTE INTERATIVO 2 
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/t86tdc.jpg" group-title="CANAIS", ESPORTE INTERATIVO 2 [ALTER]
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="CANAIS",  BAND SPORT
+http://tv.factoryiptv.com/live//Celso02/Celso02/37125.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="CANAIS ", OFF
+http://tv.factoryiptv.com/live//Celso02/Celso02/37063.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="CANAIS", BABY TV
+http://tv.factoryiptv.com/live//Celso02/Celso02/36993.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="CANAIS",   CARTOON NETWORK
+http://tv.factoryiptv.com/live//Celso02/Celso02/37121.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/syou7kI.png" group-title="CANAIS",   BOOMERANG HD
+http://tv.factoryiptv.com/live/Celso02/Celso02/37123.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="CANAIS",      DISNEY CHANNEL HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37111.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="CANAIS",  DISNEY XD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37109.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS",  TOONCAST
+http://tv.factoryiptv.com/live//Celso02/Celso02/37033.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="CANAIS",NICKELODEON
+http://tv.factoryiptv.com/live//Celso02/Celso02/37064.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUvBBueMPsM2uC5VSk8IeGMM7G150vEDfNpJkUcVgp-pDxougK" group-title="CANAIS",CONECTATV
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2St8Ans.jpg" group-title="CANAIS",TV BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1332171697.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/mlyqbuqrx/unnamed.png" group-title="CANAIS",                     CARTOON GOSPEL
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" group-title="CANAIS",      CLASSIQUE TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS",   TV NA ILHA
+http://stmv4.srvstm.com/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1030442366
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/9iBYYHL.png" group-title="CANAIS",      GOSPEL MOVEL TELEVISION
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FrancoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/zG3XXJ" group-title="CANAIS",              CINE+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf07f56766cdeaa571235d42e8f72f4.png" group-title="CANAIS",MARICÁ TV
+http://wse8.player.tv.br:1935/maricatv/maricatv/chunklist_w1236583397.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="CANAIS",   CINE SKY TERROR
+http://tv.factoryiptv.com/live//Celso02/Celso02/41080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/zj4BzR5.png" group-title="CANAIS",   CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmHNrRXojaxKL7akakoI8xg4XKqakpzhN9rXAfm2Jly76yH7-J" group-title="CANAIS",£
+http://tv.factoryiptv.com/live//Celso02/Celso02/37108.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxeEe8p.png" group-title="CANAIS",TRU TV
+http://tv.factoryiptv.com/live//Celso02/Celso02/37032.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="CANAIS", A&E
+http://tv.factoryiptv.com/live//Celso02/Celso02/37130.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="CANAIS", LIFETIME
+http://tv.factoryiptv.com/live//Celso02/Celso02/37077.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="CANAIS", PRIME BOX BRASIL
+http://tv.factoryiptv.com/live/Celso02/Celso02/37053.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="CANAIS",    COMEDY CENTRAL
+http://tv.factoryiptv.com/live//Celso02/Celso02/37118.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="CANAIS",  TBS
+http://tv.factoryiptv.com/live//Celso02/Celso02/37041.m3u8
+
+#EXTINF:-1 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium1.jpg" group-title="CANAIS",  FOX PREMIUM 1 HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36974.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS",  FOX PREMIUM 2 HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36973.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS",           TNT SERIES
+http://tv.factoryiptv.com/live//Celso02/Celso02/37034.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS", TNT SERIES HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36933.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS",    TNT
+http://tv.factoryiptv.com/live//Celso02/Celso02/37035.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="CANAIS", TNT HD 
+http://tv.factoryiptv.com/live//Celso02/Celso02/36934.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS",    TNT 2
+http://tv.factoryiptv.com/live//Celso02/Celso02/41525.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="CANAIS",    TNT 3
+http://tv.factoryiptv.com/live//Celso02/Celso02/41526.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="CANAIS",  PARAMOUNT CHANNEL
+http://tv.factoryiptv.com/live//Celso02/Celso02/37062.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="CANAIS",  PARAMOUNT CHANNEL HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36953.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="CANAIS",   MEGA PIX
+http://tv.factoryiptv.com/live/Celso02/Celso02/37072.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="CANAIS",   MEGA PIX HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36958.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="CANAIS",   FOX LIFE
+http://tv.factoryiptv.com/live//Celso02/Celso02/37100.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="CANAIS",           STUDIO UNIVERSAL
+http://tv.factoryiptv.com/live//Celso02/Celso02/37043.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="CANAIS", STUDIO UNIVERSAL HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36904.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="CANAIS",  UNIVELSAL CHANNEL
+http://tv.factoryiptv.com/live/Celso02/Celso02/37027.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="CANAIS",  UNIVELSAL CHANNEL HD
+http://tv.factoryiptv.com/live/Celso02/Celso02/36932.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="CANAIS",  FX
+http://tv.factoryiptv.com/live//Celso02/Celso02/37097.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="CANAIS",  FX HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36969.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="CANAIS",           FOX
+http://tv.factoryiptv.com/live//Celso02/Celso02/37101.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS",       SPACE
+http://tv.factoryiptv.com/live//Celso02/Celso02/37046.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS",       SPACE HD 
+http://tv.factoryiptv.com/live//Celso02/Celso02/36944.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="CANAIS",  CINEMAX
+http://tv.factoryiptv.com/live//Celso02/Celso02/37120.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="CANAIS",  CINEMAX HD
+http://tv.factoryiptv.com/live/Celso02/Celso02/36926.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="CANAIS",  WARNER HD
+http://tv.factoryiptv.com/live/Celso02/Celso02/36930.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="CANAIS",  CANAL SONY HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36987.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="CANAIS",  AMC
+http://tv.factoryiptv.com/live//Celso02/Celso02/37129.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="CANAIS",  AMC HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36928.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="CANAIS",  AXN
+http://tv.factoryiptv.com/live//Celso02/Celso02/37132.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="CANAIS",  TCM
+http://tv.factoryiptv.com/live//Celso02/Celso02/37037.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="CANAIS",  SYFY
+http://tv.factoryiptv.com/live//Celso02/Celso02/37042.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="CANAIS",  SYFY HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36903.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWC5pQyuPUzJOquWwfKX_hp6tlzqjgoFoO_5kR6GNEJzPTpAWQ" group-title="CANAIS", FILM & ARTS
+http://tv.factoryiptv.com/live//Celso02/Celso02/41374.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="CANAIS",  TELECINE ACTION
+http://tv.factoryiptv.com/live//Celso02/Celso02/37040.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="CANAIS",  TELECINE ACTION HD 
+http://tv.factoryiptv.com/live//Celso02/Celso02/36936.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="CANAIS",  TELECINE TOUCH
+http://tv.factoryiptv.com/live//Celso02/Celso02/36995.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/849pB2j.png" group-title="CANAIS",  TELECINE TOUCH HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36935.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS",  TELECINE FUN
+http://tv.factoryiptv.com/live//Celso02/Celso02/37005.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="CANAIS",  TELECINE FUN HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36938.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS",  TELECINE PIPOCA
+http://tv.factoryiptv.com/live//Celso02/Celso02/37038.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS",  TELECINE PIPOCA HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36937.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS",  TELECINE PREMIUM
+http://tv.factoryiptv.com/live//Celso02/Celso02/36994.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS",  TELECINE PREMIUM HD
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvhwDTh.png" group-title="CANAIS",  TELECINE CULT
+http://tv.factoryiptv.com/live//Celso02/Celso02/37039.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS",  TELECINE PREMIUM ALTERNATIVO
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="CANAIS",      HBO
+http://tv.factoryiptv.com/live//Celso02/Celso02/37087.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="CANAIS",      HBO HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36964.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="CANAIS",        HBO 2
+http://tv.factoryiptv.com/live//Celso02/Celso02/37086.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/okiePBA.png" group-title="CANAIS",        HBO 2 HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36966.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS",      HBO PLUS
+http://tv.factoryiptv.com/live//Celso02/Celso02/37084.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS",      HBO PLUS HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36963.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus*e" tvg-name="HBO Plus E" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="CANAIS",HBO Plus E
+http://tv.factoryiptv.com/live//Celso02/Celso02/37083.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="CANAIS",    HBO FAMILY
+http://tv.factoryiptv.com/live//Celso02/Celso02/37085.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="CANAIS",    HBO FAMILY HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36965.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="CANAIS",  HBO SIGNATURE
+http://tv.factoryiptv.com/live//Celso02/Celso02/37082.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="CANAIS",  MAX HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37076.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwsE6IdR2ClxgyVjmsrbS3qn3EKbDvvhEfTdt6wnd-xDOUrnC" group-title="CANAIS",  MAX UP
+http://tv.factoryiptv.com/live//Celso02/Celso02/37073.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXwsE6IdR2ClxgyVjmsrbS3qn3EKbDvvhEfTdt6wnd-xDOUrnC" group-title="CANAIS",MAX UP HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36911.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS",   MAX PRIME
+http://tv.factoryiptv.com/live//Celso02/Celso02/37074.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="CANAIS",   MAX PRIME HD
+http://tv.factoryiptv.com/live//Celso02/Celso02/36912.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="CANAIS",SUMMER TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1801199655.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2016/06/22/22170804950742.jpg" group-title="CANAIS",   CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh8O9e6.jpg?1" group-title="CANAIS",   CARIOCA NET TV
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1016328092.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53014f05b69e8e2dda2d55b032f8b0a4.jpg" group-title="CANAIS",   YEEAH TEEN
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8?wowzasessionid=1971011538
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CANAIS",   TV ARACATI
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="CANAIS",   TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1444982722
+
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv-300x125.png" group-title="CANAIS",   REED BULL TV
+https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_578.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="CANAIS",      ALL SPORTS HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1814552354.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/X0rwGWK.png" group-title="CANAIS",      REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d0a56bd4618d5d85e49f87519751b6.jpg" group-title="CANAIS",SEVILA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/sherwoodforestgc.com/wp-content/uploads/2016/03/Golf_Flat.jpg" group-title="CANAIS",     GOLF CHANNEL |USA|
+https://lhr-1.firstonetv.net:4434/hls/cef0cc7c7f43996265e4d37ab47cd086/1542676125/7b226970223a223230392e3233392e3131322e313034222c226363223a225553227d/687474703a2f2f747665676f6c662d692e616b616d616968642e6e65742f686c732f6c6976652f3231383232352f676f6c66782f323539366b2f70726f672e6d337538.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ee4c267eb8ceadf63a93090b9844f642.png" group-title="CANAIS",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20181116_1542344862570/500K/500_slide.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/autoiptv.net/images/logos/nbatv.png" group-title="CANAIS",                    NBA TV
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="CANAIS",  FISH TV
+http://tv.factoryiptv.com/live//Celso02/Celso02/37103.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="CANAIS", BARCELONA TV
+https://ul.cdn584.net:8443/hls/z1963.m3u8?s=oj8ueN65l3Emt85BSLLvIg&e=1542670750
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NatGeo" tvg-logo="http://images.mi.tv/channels/br_national-geographic_m.png" group-title="CANAIS",NATGEO
+http://tv.factoryiptv.com/live/Celso02/Celso02/37068.ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="CANAIS", NATGEO WILD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37066.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="CANAIS", ANIMAL PLANET
+http://tv.factoryiptv.com/live/Celso02/Celso02/37128.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="CANAIS",  HISTORY
+http://tv.factoryiptv.com/live//Celso02/Celso02/37081.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="CANAIS",   HISTORY 2
+http://tv.factoryiptv.com/live//Celso02/Celso02/40040.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="CANAIS",  DISCOVERY  CHANNEL
+http://tv.factoryiptv.com/live//Celso02/Celso02/37116.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="CANAIS",  DISCOVERY TURBO
+http://tv.factoryiptv.com/live//Celso02/Celso02/37112.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="http://kelencontent.com/wp-content/uploads/2010/02/site_logo-11.gif" group-title="CANAIS",DISCOVERY CIVILIZATION
+http://tv.factoryiptv.com/live//Celso02/Celso02/41135.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="CANAIS",Discovery H&H
+http://tv.factoryiptv.com/live//Celso02/Celso02/37115.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://logowow.net/logos/Y8rtqQriW.png" group-title="CANAIS",Discovery Science
+http://tv.factoryiptv.com/live//Celso02/Celso02/41141.m3u8
+
+
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="https://i.imgur.com/7wEq3VK.png" group-title="CANAIS",Investigação Discovery
+http://tv.factoryiptv.com/live//Celso02/Celso02/37114.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/525295b61d371547a3614bfa8aef9ab6.gif" group-title="CANAIS",CAMERA NASA
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    GOSPEL
+http://192.99.150.31:9101/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",   SERTANEJO CLÁSSICO
+http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    KIDS
+http://192.99.150.31:9431/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",  JOVEM GUARDA
+http://192.99.150.31:8801/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    ELETRÔNICA
+http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imgur.com/MmJBR9j.png" group-title="CANAIS",   DANCE
+http://zet.cdn.eurozet.pl/ZETDAN.mp3
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    AXÉ
+http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    FUNK
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",    PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",  FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",  RAP NACIONAL
+http://192.99.150.31:8377/;
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/MmJBR9j.png" group-title="CANAIS",  ROCK
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",  JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",   FUNDORADO TV
+http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",PLAY BOY
+http://tv.factoryiptv.com/live//Celso02/Celso02/37061.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",SEX HOT
+http://tv.factoryiptv.com/live//Celso02/Celso02/37009.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",VENUS
+http://tv.factoryiptv.com/live//Celso02/Celso02/37026.m3u8
+
+#EXTINF:1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",MIAMI TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",MIAMI TV LATINA
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",BABIESTATION 24
+http://sdn-global-live-http-xcache.3qsdn.com/2346/_definst_///mp4:Ct6zG7Nrj3v2JxD/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="ADULTOS +18",VISIT-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4f/Dragon_Ball_Super_artwork.jpg/250px-Dragon_Ball_Super_artwork.jpg" group-title="CANAIS 24 HORAS",DRAGON BALL SUPER 3°TP
+http://lista.webcs.in:25461/live/vkqxes/canaliptv2018/14312.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi16cvXoKq8uPoILJzfGykDL5laJDN7pSu6xUhuvv9fS2Pk5B5" group-title="CANAIS 24 HORAS",TARTARUGAS NINJAS 2°TP
+http://lista.webcs.in:25461/live/vkqxes/canaliptv2018/13519.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Street_Fighter_old_logo.png" group-title="CANAIS 24 HORAS",STREET-FIGHTER
+http://lista.webcs.in:25461/live/vkqxes/canaliptv2018/14217.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXw1vumgpj8iS9-gW2Gz0-1qX17skL5X0M4Sn0P6G5kooHtxq_Pw" group-title="CANAIS 24 HORAS",PODEROSO CHEFINHO DE VOLTA AOS NEGOCIOS
+http://lista.webcs.in:25461/live/vkqxes/canaliptv2018/14246.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Picapau" tvg-logo="https://1.bp.blogspot.com/-lpMHpogBQS4/Ug0YYPwu4II/AAAAAAAA42A/CsqxpGNUyNU/s1600/15191512Jge85DBz.png" group-title="CANAIS 24 HORAS",PICA PAU
+http://tv.factoryiptv.com/live//Celso02/Celso02/37429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="http://2.bp.blogspot.com/-2NtMOoJta8A/VDc1XS4bzuI/AAAAAAAACB0/7flQHQlRhCE/s1600/chapolin.png" group-title="CANAIS 24 HORAS",CHAPOLIN COLORADO
+http://tv.factoryiptv.com/live//Celso02/Celso02/37430.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhoes" tvg-logo="https://pbs.twimg.com/profile_images/2817074487/5d0ea5554e68e6b660d3a0f92ee6af66_400x400.jpeg" group-title="CANAIS 24 HORAS",OS TRAPALHOES
+http://tv.factoryiptv.com/live//Celso02/Celso02/37437.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="CANAIS 24 HORAS",GALINHA PINTADINHA
+http://tv.factoryiptv.com/live//Celso02/Celso02/39570.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS 24 HORAS",TURMA DA MONICA
+http://tv.factoryiptv.com/live//Celso02/Celso02/39571.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.peppapigliveaus.com/img/slides/Peppa.png" group-title="CANAIS 24 HORAS",PEPPA PIGG
+http://tv.factoryiptv.com/live//Celso02/Celso02/39572.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-bMLyzRKgRbc/U7a7nU5RFvI/AAAAAAAABvA/mugFra_KGJ4/s1600/image009.gif" group-title="CANAIS 24 HORAS",GALFIELD
+http://tv.factoryiptv.com/live//Celso02/Celso02/39573.m3u8
+
+#EXTINF:-1 tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="CANAIS 24 HORAS",PADRINHOS MAGICOS
+http://tv.factoryiptv.com/live//Celso02/Celso02/39574.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TONES" tvg-logo="https://orig00.deviantart.net/214b/f/2012/009/6/9/69a53eac14e46b5ac302935d314246cc-d2ub40a.png" group-title="CANAIS 24 HORAS",TURMA DO PERNALONGA
+http://tv.factoryiptv.com/live//Celso02/Celso02/39575.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/LP_Chaves.jpg" group-title="CANAIS 24 HORAS",CHAVES
+http://tv.factoryiptv.com/live//Celso02/Celso02/39762.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="He Man" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="CANAIS 24 HORAS",HE MAM
+http://tv.factoryiptv.com/live//Celso02/Celso02/39776.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS 24 HORAS",POPEYE
+CANAIS 24 HORAS",POPEYE http://tv.factoryiptv.com/live//Celso02/Celso02/39777.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="http://2.bp.blogspot.com/-6HEU0pJ2gqI/VOyIbDax8kI/AAAAAAAANGU/6B8x_EOaMOk/s1600/Desenhos%2BBiblicos%2B%2B1.png" group-title="CANAIS 24 HORAS",DESENHOS BIBLICOS
+http://tv.factoryiptv.com/live//Celso02/Celso02/39780.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA" tvg-logo="https://occ-0-901-999.1.nflxso.net/art/3dbf7/2ae0a5ddd191aa9565d566c729882104f063dbf7.png" group-title="CANAIS 24 HORAS",PATATI PATATA
+http://tv.factoryiptv.com/live//Celso02/Celso02/39781.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/n9ASqkP.png" group-title="CANAIS 24 HORAS",MÀSCARA
+http://tv.factoryiptv.com/live//Celso02/Celso02/41895.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/529777385726410752/miXub4Es_400x400.png" group-title="CANAIS 24 HORAS",MANDA CHUVA
+http://tv.factoryiptv.com/live//Celso02/Celso02/41894.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8xIzg0o7t6S2YUYPsZxgubt7L3uvre2Rx23LacpTYnud1ODVQ" group-title="CANAIS 24 HORAS",LIGEIRINHO
+http://tv.factoryiptv.com/live//Celso02/Celso02/41893.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7QeHo0IVdIU8ICf-YlkIb7yEqtkXnaFKCSp1s5XIPS784sP0ww" group-title="CANAIS 24 HORAS",CORRIDA MALUCA
+http://tv.factoryiptv.com/live//Celso02/Celso02/41886.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ-vSagAN-h7OJruMhRtfm8dK7JiT99BiHZs5PTfqft2P6VHnu" group-title="CANAIS 24 HORAS",SCOOBY DOO
+http://tv.factoryiptv.com/live//Celso02/Celso02/41898.m3u8
